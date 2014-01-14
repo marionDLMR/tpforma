@@ -8,5 +8,7 @@ public class App {
 
     public static void main(String[] args) {
         System.out.println("Bonjour Marion");
+        System.out.println("Bonjour Heia");
+        System.out.println("Je suis une padawan ^^!!");
     }
 }
