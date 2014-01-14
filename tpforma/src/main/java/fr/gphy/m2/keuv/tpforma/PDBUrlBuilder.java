@@ -15,7 +15,7 @@ import java.net.URL;
  * @author He Ia
  */
 public class PDBUrlBuilder {
-   public static URL getFirtPdbUrl(String uniprotId) throws IOException{
+   public static URL getFirstPdbUrl(String uniprotId) throws IOException{
        //Proxy
     System.setProperty("http.proxyHost","cache.univpoitiers.fr");
     System.setProperty("http.proxyPort", "3128");

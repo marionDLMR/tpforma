@@ -10,5 +10,6 @@ public class App {
         System.out.println("-Bonjour Marion");
         System.out.println("-Bonjour Heia");
         System.out.println("-Je déclare la guerre!");
+        PDBUrlBuilder.getFirstPdbUrl("PO7900");
     }
 }
