@@ -1,7 +1,9 @@
 package fr.gphy.m2.keuv.tpforma;
 
 import java.io.BufferedReader;
+import java.io.IOException;
 import java.io.InputStreamReader;
+import java.net.URL;
 
 /*
  * To change this template, choose Tools | Templates
